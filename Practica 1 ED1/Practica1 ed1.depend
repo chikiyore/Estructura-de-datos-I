@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1710689379 source:c:\users\jarro\onedrive\documentos\practica1 ed1\main.cpp
+	<iostream>
+	<Menus.h>
+	"GestorClientes.h"
+
+1710548799 source:c:\users\jarro\onedrive\documentos\practica1 ed1\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1710522687 c:\users\jarro\onedrive\documentos\practica1 ed1\include\gestoralquiler.h
+	"Comun.h"
+
+1710691055 c:\users\jarro\onedrive\documentos\practica1 ed1\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1710587856 c:\users\jarro\onedrive\documentos\practica1 ed1\include\menus.h
+	"Comun.h"
+
+1710694922 source:c:\users\jarro\onedrive\documentos\practica1 ed1\src\menus.cpp
+	"Menus.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+	"GestorClientes.h"
+
+1710692131 source:c:\users\jarro\onedrive\documentos\practica1 ed1\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1710590720 c:\users\jarro\onedrive\documentos\practica1 ed1\include\gestorvehiculos.h
+	"Comun.h"
+
+1710688359 c:\users\jarro\onedrive\documentos\practica1 ed1\include\gestorclientes.h
+	"Comun.h"
+
+1710694059 source:c:\users\jarro\onedrive\documentos\practica1 ed1\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Comun.h"
+
+1711970847 source:c:\users\jarro\desktop\ed1-23-24\practica1 ed1\main.cpp
+	<iostream>
+	<Menus.h>
+	"GestorClientes.h"
+
+1710591456 c:\users\jarro\desktop\ed1-23-24\practica1 ed1\include\menus.h
+	"Comun.h"
+
+1711290362 c:\users\jarro\desktop\ed1-23-24\practica1 ed1\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1710691959 c:\users\jarro\desktop\ed1-23-24\practica1 ed1\include\gestorclientes.h
+	"Comun.h"
+
+1711973640 source:c:\users\jarro\desktop\ed1-23-24\practica1 ed1\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1710526287 c:\users\jarro\desktop\ed1-23-24\practica1 ed1\include\gestoralquiler.h
+	"Comun.h"
+
+1711971770 source:c:\users\jarro\desktop\ed1-23-24\practica1 ed1\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Comun.h"
+
+1711973524 source:c:\users\jarro\desktop\ed1-23-24\practica1 ed1\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1710594320 c:\users\jarro\desktop\ed1-23-24\practica1 ed1\include\gestorvehiculos.h
+	"Comun.h"
+
+1711970818 source:c:\users\jarro\desktop\ed1-23-24\practica1 ed1\src\menus.cpp
+	"Menus.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+	"GestorClientes.h"
+
+1711970847 source:c:\users\jarro\onedrive\desktop\practica1 ed1\main.cpp
+	<iostream>
+	<Menus.h>
+	"GestorClientes.h"
+
+1710591456 c:\users\jarro\onedrive\desktop\practica1 ed1\include\menus.h
+	"Comun.h"
+
+1711290362 c:\users\jarro\onedrive\desktop\practica1 ed1\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1710691959 c:\users\jarro\onedrive\desktop\practica1 ed1\include\gestorclientes.h
+	"Comun.h"
+
+1711973640 source:c:\users\jarro\onedrive\desktop\practica1 ed1\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1710526287 c:\users\jarro\onedrive\desktop\practica1 ed1\include\gestoralquiler.h
+	"Comun.h"
+
+1711971770 source:c:\users\jarro\onedrive\desktop\practica1 ed1\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Comun.h"
+
+1713471821 source:c:\users\jarro\onedrive\desktop\practica1 ed1\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1710594320 c:\users\jarro\onedrive\desktop\practica1 ed1\include\gestorvehiculos.h
+	"Comun.h"
+
+1713472485 source:c:\users\jarro\onedrive\desktop\practica1 ed1\src\menus.cpp
+	"Menus.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+	"GestorClientes.h"
+
+1711970847 source:e:\practica1 ed1\main.cpp
+	<iostream>
+	<Menus.h>
+	"GestorClientes.h"
+
+1710591456 e:\practica1 ed1\include\menus.h
+	"Comun.h"
+
+1711290362 e:\practica1 ed1\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1710691959 e:\practica1 ed1\include\gestorclientes.h
+	"Comun.h"
+
+1711973640 source:e:\practica1 ed1\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1710526287 e:\practica1 ed1\include\gestoralquiler.h
+	"Comun.h"
+
+1711971770 source:e:\practica1 ed1\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Comun.h"
+
+1713472494 source:e:\practica1 ed1\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1710594320 e:\practica1 ed1\include\gestorvehiculos.h
+	"Comun.h"
+
+1713472485 source:e:\practica1 ed1\src\menus.cpp
+	"Menus.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+	"GestorClientes.h"
+
+1711970847 source:c:\users\usuario\desktop\practica1 ed1\main.cpp
+	<iostream>
+	<Menus.h>
+	"GestorClientes.h"
+
+1710591456 c:\users\usuario\desktop\practica1 ed1\include\menus.h
+	"Comun.h"
+
+1711290362 c:\users\usuario\desktop\practica1 ed1\include\comun.h
+	<string.h>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1710691959 c:\users\usuario\desktop\practica1 ed1\include\gestorclientes.h
+	"Comun.h"
+
+1711973640 source:c:\users\usuario\desktop\practica1 ed1\src\gestoralquiler.cpp
+	"GestorAlquiler.h"
+
+1710526287 c:\users\usuario\desktop\practica1 ed1\include\gestoralquiler.h
+	"Comun.h"
+
+1711971770 source:c:\users\usuario\desktop\practica1 ed1\src\gestorclientes.cpp
+	"GestorClientes.h"
+	"Comun.h"
+
+1713788859 source:c:\users\usuario\desktop\practica1 ed1\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+
+1713787207 c:\users\usuario\desktop\practica1 ed1\include\gestorvehiculos.h
+	"Comun.h"
+
+1713787236 source:c:\users\usuario\desktop\practica1 ed1\src\menus.cpp
+	"Menus.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+	"GestorClientes.h"
+

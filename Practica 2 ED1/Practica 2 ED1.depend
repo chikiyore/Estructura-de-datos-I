@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1714665342 source:c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\src\lista.cpp
+	"lista.h"
+
+1714666348 c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\include\lista.h
+	<iostream>
+
+1714665066 source:c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\src\cola.cpp
+	"cola.h"
+
+1714666348 c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\include\cola.h
+	<iostream>
+
+1717167677 source:c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\main.cpp
+	<iostream>
+	"Festival.h"
+
+1715802591 c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\include\festival.h
+	"lista.h"
+	"cola.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<random>
+
+1717168005 source:c:\users\jarro\desktop\ed1-23-24\practica 2 ed1\src\festival.cpp
+	"Festival.h"
+
+1717416149 source:c:\users\usuario\desktop\practica 2 ed1\main.cpp
+	<iostream>
+	"Festival.h"
+
+1717414269 c:\users\usuario\desktop\practica 2 ed1\include\festival.h
+	"lista.h"
+	"cola.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<random>
+
+1714666348 c:\users\usuario\desktop\practica 2 ed1\include\lista.h
+	<iostream>
+
+1714666348 c:\users\usuario\desktop\practica 2 ed1\include\cola.h
+	<iostream>
+
+1714665066 source:c:\users\usuario\desktop\practica 2 ed1\src\cola.cpp
+	"cola.h"
+
+1714665342 source:c:\users\usuario\desktop\practica 2 ed1\src\lista.cpp
+	"lista.h"
+
+1717416633 source:c:\users\usuario\desktop\practica 2 ed1\src\festival.cpp
+	"Festival.h"
+
